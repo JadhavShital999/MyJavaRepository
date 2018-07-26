@@ -1,0 +1,55 @@
+[33mcommit 4fd61b9ab24a113304174450a9dbb82da2c0e4f4[m
+Author: Shital Jadhav <shital_jadhav@persistent.co.in>
+Date:   Thu Jul 26 14:17:02 2018 +0530
+
+    Revert "myMethod() metod is changed to displaydate() method"
+    
+    This reverts commit c842ce22f166b983931b350a779748314c25af07.
+
+[33mcommit c842ce22f166b983931b350a779748314c25af07[m
+Author: Shital Jadhav <shital_jadhav@persistent.co.in>
+Date:   Thu Jul 26 12:39:34 2018 +0530
+
+    myMethod() is changed to displaydate
+
+[33mcommit fea800d63ce35f7b01f84a05cc1a889ebe78665c[m
+Author: Shital Jadhav <shital_jadhav@persistent.co.in>
+Date:   Thu Jul 26 12:37:47 2018 +0530
+
+    myMethod() is added to display date
+
+[33mcommit 7d5c232e3de149bce9b24e86068599c35adebc10[m
+Author: Shital Jadhav <shital_jadhav@persistent.co.in>
+Date:   Thu Jul 26 12:35:22 2018 +0530
+
+    FileToDelete.txt deleted
+
+[33mcommit 2fa64ee163cac1874ed9d98987c4756d08c4343c[m
+Author: Shital Jadhav <shital_jadhav@persistent.co.in>
+Date:   Thu Jul 26 12:32:42 2018 +0530
+
+    filetodelete.txt is created
+
+[33mcommit 032080729f6e2f70a6d2fa602b79864b51d10a0a[m
+Author: Shital Jadhav <shital_jadhav@persistent.co.in>
+Date:   Thu Jul 26 12:29:29 2018 +0530
+
+    HelloWorld.txt rename to HelloWorldGut,java
+
+[33mcommit 9be5adf3e509d814755afc7491a68294162dd06a[m
+Author: Shital Jadhav <shital_jadhav@persistent.co.in>
+Date:   Thu Jul 26 12:13:16 2018 +0530
+
+    Hello to Hello world welcome to git
+
+[33mcommit 50e705d253410c0c677dd0ee0ef0c92989c8d5e6[m
+Author: Shital Jadhav <shital_jadhav@persistent.co.in>
+Date:   Thu Jul 26 12:09:14 2018 +0530
+
+    add syso statement
+
+[33mcommit 652f6b4b0e012591248d212b11c78688294a9b1e[m
+Author: Shital Jadhav <shital_jadhav@persistent.co.in>
+Date:   Thu Jul 26 12:03:15 2018 +0530
+
+    hello world java application created - v1
