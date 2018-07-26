@@ -1,9 +1,9 @@
 public class HelloWorld
 {
 
-void displayDate()
+void myMethod()
 {
-sysout("Display today's date");
+sysout("display todays date");
 
 }
 
