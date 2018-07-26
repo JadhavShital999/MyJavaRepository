@@ -3,7 +3,7 @@ public class HelloWorld
 
 void myMethod()
 {
-sysout("display todays date");
+sysout("Display Todays date:-");
 
 }
 
